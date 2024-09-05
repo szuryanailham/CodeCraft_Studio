@@ -67,14 +67,14 @@ export const portofolio = [
     id: "2",
     url: "https://www.farikhdesign.my.id/",
     nama: "Farikh Design - Portofolio Website",
-    img: project2,
+    img: project3,
     tehno: { reactPorto, javascriptPorto, tailwindsPorto },
   },
   {
     id: "3",
     url: "https://cahayawaskithajogja.com/",
     nama: " Cahayawaskitha Transport - Rental Mobil Website",
-    img: project3,
+    img: project2,
     tehno: { reactPorto, javascriptPorto, tailwindsPorto, laravelPorto },
   },
   {

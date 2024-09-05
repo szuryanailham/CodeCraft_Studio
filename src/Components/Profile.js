@@ -1,5 +1,5 @@
 import React from "react";
-import { Instagram, profile, Substract } from "../Assets/Utils/Index";
+import { profile, Substract } from "../Assets/Utils/Index";
 import { Deskripsi, LinkSocialMediaArray, title } from "../constants";
 import { MdOutlineDateRange } from "react-icons/md";
 import { MdOutlineMailOutline } from "react-icons/md";
