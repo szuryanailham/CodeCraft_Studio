@@ -8,25 +8,25 @@ export const LinkSocialMediaArray = [
     id: "Linkedin",
     title: "Linkedin",
     image: Linkedin,
-    url: "",
+    url: "https://www.linkedin.com/in/ilham-suryana/",
   },
   {
     id: "Tiktok",
     title: "Tiktok",
     image: Tiktok,
-    url: "",
+    url: "https://www.tiktok.com/@szuryanilhm",
   },
   {
     id: "Whatshapp",
     title: "Whatshapp",
     image: Whatshapp,
-    url: "",
+    url: "https://wa.me/6285853438903",
   },
   {
     id: "Instagram",
     title: "Instagram",
     image: Instagram,
-    url: "",
+    url: "https://www.instagram.com/szuryanilhm/",
   },
 ];
 

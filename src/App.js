@@ -14,7 +14,7 @@ import { Link } from "react-scroll";
 function App() {
   return (
     <>
-      <div className=" w-fit md:w-[50px] h-fit bg-[#0d1422] fixed z-[100] flex md:flex-col gap-7 md:gap-5 bottom-5 right-[20%] md:right-0 md:top-[50%] rounded-md px-8 md:px-4 py-4 hidden ">
+      <div className=" w-fit md:w-[50px] h-fit bg-[#0d1422] fixed z-[100] flex md:flex-col gap-7 md:gap-5 bottom-5 right-[20%] md:right-0 md:top-[50%] rounded-md px-8 md:px-4 py-4">
         <Link smooth={true} duration={500} to="Home" className="cursor-pointer">
           <TbHome className="w-5 h-5" />
         </Link>

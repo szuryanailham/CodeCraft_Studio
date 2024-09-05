@@ -44,9 +44,9 @@ const Profile = () => {
         {/* link Sosmed */}
         <div className="flex space-x-3">
           {LinkSocialMediaArray.map((item, id) => (
-            <div id="id" className="w-9 h-9 p-2 bg-gray-700 rounded-md">
+            <a href={item.url} id="id" className="w-9 h-9 p-2 bg-gray-700 rounded-md">
               <img src={item.image} alt={item.title} />
-            </div>
+            </a>
           ))}
         </div>
       </div>
