@@ -72,14 +72,14 @@ export const portofolio = [
   },
   {
     id: "3",
-    url: "https://cahayawaskithajogja.com/",
+    url: "https://www.farikhdesign.my.id/",
     nama: "Farikh Design - Portofolio Website",
     img: project3,
     tehno: { reactPorto, javascriptPorto, tailwindsPorto, laravelPorto },
   },
   {
     id: "4",
-    url: "https://github.com/szuryanailham/Ruang_Edit",
+    url: "https://www.figma.com/design/NRPe9ub8J3d0M2xRQwqTqf/REDESIGN-WEBSITE-RUANG-EDIT?node-id=0-1&t=n7fEMkKqd62lqfoN-1",
     nama: "Ruang Edit - course learning website",
     img: project4,
     tehno: { reactPorto, javascriptPorto, tailwindsPorto, laravelPorto },
@@ -97,12 +97,12 @@ export const AbilityArray = [
     id: "2",
     title: "Developer",
     image: Ability2,
-    desc: "Saya membuat desain dan prototipe produk digital dengan ide-ide unik menggunakan Figma",
+    desc: "Saya membuat tampilan user interface dalam tehnologi website menggunakan bahasa pemograman terbaru",
   },
   {
     id: "3",
     title: "Content Creator",
     image: Ability3,
-    desc: "Saya membuat desain dan prototipe produk digital dengan ide-ide unik menggunakan Figma",
+    desc: "Saya membuat content edukasi pembelajaran design figma dan web developer di paltform social media",
   },
 ];
