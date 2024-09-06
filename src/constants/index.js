@@ -1,4 +1,4 @@
-import { Instagram, javascriptPorto, laravelPorto, Linkedin, project1, project2, project3, project4, reactPorto, tailwindsPorto, Tiktok, Whatshapp, Ability1, Ability2, Ability3 } from "../Assets/Utils/Index";
+import { Instagram, javascriptPorto, laravelPorto, Linkedin, project1, project2, project3, project4, reactPorto, tailwindsPorto, Tiktok, Ability1, Ability2, Ability3, github } from "../Assets/Utils/Index";
 export const title = "HEI, I AM SZURYANA ";
 
 export const Deskripsi = "Saya Front-End Developer dengan 2+ tahun pengalaman dalam membangun antarmuka web responsif dan interaktif. Menguasai Figma Design, HTML, CSS, JavaScript, dan framework modern ";
@@ -18,9 +18,9 @@ export const LinkSocialMediaArray = [
   },
   {
     id: "Whatshapp",
-    title: "Whatshapp",
-    image: Whatshapp,
-    url: "https://wa.me/6285853438903",
+    title: "Github",
+    image: github,
+    url: "https://github.com/szuryanailham/",
   },
   {
     id: "Instagram",
@@ -74,7 +74,7 @@ export const portofolio = [
     id: "3",
     url: "https://cahayawaskithajogja.com/",
     nama: "Farikh Design - Portofolio Website",
-    img: project2,
+    img: project3,
     tehno: { reactPorto, javascriptPorto, tailwindsPorto, laravelPorto },
   },
   {

@@ -6,7 +6,7 @@ import { MdOutlineMailOutline } from "react-icons/md";
 import { FaMapPin } from "react-icons/fa";
 const Profile = () => {
   return (
-    <div className=" h-[95vh] md:h-screen static md:fixed -left-10 top-4 w-full md:w-auto mb-2">
+    <div className=" h-[95vh] md:h-fit static md:fixed -left-10 top-4 w-full md:w-auto mb-2">
       {/* Background image */}
       <img className="w-fit md:px-10 mt-7 px-20" src={Substract} alt="Substract" />
 
