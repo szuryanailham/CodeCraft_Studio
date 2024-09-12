@@ -28,7 +28,7 @@ const Portofolio = () => {
             </div>
             <div className="flex items-center justify-between w-[80%] mx-auto">
               <h1 className="p-5 text-md md:text-xl font-fontTitle">{item.nama}</h1>
-              <a href={"sdsd"}>
+              <a href={item.github}>
                 <FaGithub className="text-2xl self-center" />
               </a>
             </div>
