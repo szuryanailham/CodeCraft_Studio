@@ -1,5 +1,6 @@
 import React from "react";
 import { portofolio } from "../constants";
+import { FaGithub } from "react-icons/fa";
 const Portofolio = () => {
   return (
     <div id="Portofolio">
@@ -25,7 +26,12 @@ const Portofolio = () => {
                 </div>
               </div>
             </div>
-            <h1 className="p-5 text-md md:text-xl font-fontTitle">{item.nama}</h1>
+            <div className="flex items-center justify-between w-[80%] mx-auto">
+              <h1 className="p-5 text-md md:text-xl font-fontTitle">{item.nama}</h1>
+              <a href={"sdsd"}>
+                <FaGithub className="text-2xl self-center" />
+              </a>
+            </div>
           </a>
         ))}
       </div>

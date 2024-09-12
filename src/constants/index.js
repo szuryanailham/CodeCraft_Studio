@@ -1,4 +1,4 @@
-import { Instagram, javascriptPorto, laravelPorto, Linkedin, project1, project2, project3, project4, reactPorto, tailwindsPorto, Tiktok, Ability1, Ability2, Ability3, github } from "../Assets/Utils/Index";
+import { Instagram, javascriptPorto, laravelPorto, Linkedin, project1, project2, project3, project4, reactPorto, tailwindsPorto, Tiktok, Ability1, Ability2, Ability3, github, gsap, three, project5 } from "../Assets/Utils/Index";
 export const title = "HEI, I AM SZURYANA ";
 
 export const Deskripsi = "Saya Front-End Developer dengan 2+ tahun pengalaman dalam membangun antarmuka web responsif dan interaktif. Menguasai Figma Design, HTML, CSS, JavaScript, dan framework modern ";
@@ -60,6 +60,7 @@ export const portofolio = [
     id: "1",
     url: "https://fauzan-portoflio.vercel.app/",
     nama: "Fauzan Studio - Portofolio Website",
+    github: "https://github.com/szuryanailham/Fauzan_portofolio",
     img: project1,
     tehno: { reactPorto, javascriptPorto, tailwindsPorto },
   },
@@ -67,6 +68,7 @@ export const portofolio = [
     id: "2",
     url: "https://cahayawaskithajogja.com/",
     nama: " Cahayawaskitha Transport - Rental Mobil Website",
+    github: "https://github.com/szuryanailham/IPhone-Website",
     img: project2,
     tehno: { reactPorto, javascriptPorto, tailwindsPorto },
   },
@@ -74,6 +76,7 @@ export const portofolio = [
     id: "3",
     url: "https://www.farikhdesign.my.id/",
     nama: "Farikh Design - Portofolio Website",
+    github: "https://github.com/szuryanailham/Farikh_Project",
     img: project3,
     tehno: { reactPorto, javascriptPorto, tailwindsPorto, laravelPorto },
   },
@@ -81,6 +84,7 @@ export const portofolio = [
     id: "4",
     url: "https://www.figma.com/design/NRPe9ub8J3d0M2xRQwqTqf/REDESIGN-WEBSITE-RUANG-EDIT?node-id=0-1&t=n7fEMkKqd62lqfoN-1",
     nama: "Ruang Edit - course learning website",
+    github: "https://github.com/szuryanailham/Ruang_Edit",
     img: project4,
     tehno: { reactPorto, javascriptPorto, tailwindsPorto, laravelPorto },
   },
@@ -88,8 +92,9 @@ export const portofolio = [
     id: "5",
     url: "https://iphone-website-blush.vercel.app/",
     nama: "IPhone Website - Pofile Product IPhone 15",
-    img: project4,
-    tehno: { reactPorto, javascriptPorto, tailwindsPorto },
+    github: "https://github.com/szuryanailham/IPhone-Website",
+    img: project5,
+    tehno: { reactPorto, javascriptPorto, tailwindsPorto, gsap, three },
   },
 ];
 
