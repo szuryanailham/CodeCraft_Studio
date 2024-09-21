@@ -34,7 +34,10 @@ const Profile = () => {
           {/* email */}
           <div className="flex items-center gap-3">
             <MdOutlineMailOutline className="text-xl" />
-            <p className="text-xs">Szuryanailham090102@gmail.com</p>
+            <a className="text-xs underline hover:text-blue-600" href="mailto: name@email.com">
+              Szuryanailham090102@gmail.com
+            </a>
+            <p></p>
           </div>
         </div>
         {/* Deskripsi */}
