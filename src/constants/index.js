@@ -20,7 +20,7 @@ export const LinkSocialMediaArray = [
     id: "Whatshapp",
     title: "Whatsapp ",
     image: whatsapp,
-    url: "https://wa.me/6285853438904?text=Halo%21%20%F0%9F%91%8B%20Saya%20tertarik%20dengan%20jasa%20pembuatan%20website%20yang%20Anda%20tawarkan.%20%F0%9F%92%BB%20Apakah%20saya%20bisa%20mendapatkan%20informasi%20lebih%20lanjut%20tentang%20jasa%20kakak%20ini%20%F0%9F%98%8A",
+    url: "https://wa.me/6285853438903?text=Halo%21%20%F0%9F%91%8B%20Saya%20tertarik%20dengan%20jasa%20pembuatan%20website%20yang%20Anda%20tawarkan.%20%F0%9F%92%BB%20Apakah%20saya%20bisa%20mendapatkan%20informasi%20lebih%20lanjut%20tentang%20jasa%20kakak%20ini%20%F0%9F%98%8A",
   },
   {
     id: "Instagram",
