@@ -1,4 +1,4 @@
-import { Instagram, javascriptPorto, laravelPorto, Linkedin, project1, project2, project3, project4, reactPorto, tailwindsPorto, Tiktok, Ability1, Ability2, Ability3, github, gsap, three, project5 } from "../Assets/Utils/Index";
+import { Instagram, javascriptPorto, whatsapp, laravelPorto, Linkedin, project1, project2, project3, project4, reactPorto, tailwindsPorto, Tiktok, Ability1, Ability2, Ability3, gsap, three, project5 } from "../Assets/Utils/Index";
 export const title = "HEI, I AM SZURYANA ";
 
 export const Deskripsi = "Saya Front-End Developer dengan 2+ tahun pengalaman dalam membangun antarmuka web responsif dan interaktif. Menguasai Figma Design, HTML, CSS, JavaScript, dan framework modern ";
@@ -18,9 +18,9 @@ export const LinkSocialMediaArray = [
   },
   {
     id: "Whatshapp",
-    title: "Github",
-    image: github,
-    url: "https://github.com/szuryanailham/",
+    title: "Whatsapp ",
+    image: whatsapp,
+    url: "https://wa.me/6285853438904?text=Halo%21%20%F0%9F%91%8B%20Saya%20tertarik%20dengan%20jasa%20pembuatan%20website%20yang%20Anda%20tawarkan.%20%F0%9F%92%BB%20Apakah%20saya%20bisa%20mendapatkan%20informasi%20lebih%20lanjut%20tentang%20jasa%20kakak%20ini%20%F0%9F%98%8A",
   },
   {
     id: "Instagram",
