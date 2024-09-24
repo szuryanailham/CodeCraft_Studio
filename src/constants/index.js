@@ -1,4 +1,4 @@
-import { Instagram, javascriptPorto, whatsapp, laravelPorto, Linkedin, project1, project2, project3, project4, reactPorto, tailwindsPorto, Tiktok, Ability1, Ability2, Ability3, gsap, three, project5 } from "../Assets/Utils/Index";
+import { Instagram, javascriptPorto, whatsapp, laravelPorto, Linkedin, project1, project2, project3, project4, reactPorto, tailwindsPorto, Tiktok, Ability1, Ability2, Ability3, gsap, three, project5, project6 } from "../Assets/Utils/Index";
 export const title = "HEI, I AM SZURYANA ";
 
 export const Deskripsi = "Saya Front-End Developer dengan 2+ tahun pengalaman dalam membangun antarmuka web responsif dan interaktif. Menguasai Figma Design, HTML, CSS, JavaScript, dan framework modern ";
@@ -91,10 +91,18 @@ export const portofolio = [
   {
     id: "5",
     url: "https://iphone-website-blush.vercel.app/",
-    nama: "IPhone Website - Pofile Product IPhone 15",
+    nama: "IPhone Website - Profile Product IPhone 15",
     github: "https://github.com/szuryanailham/IPhone-Website",
     img: project5,
     tehno: { reactPorto, javascriptPorto, tailwindsPorto, gsap, three },
+  },
+  {
+    id: "6",
+    url: "https://www.aldiwaldproject.my.id/",
+    nama: "Aldiwald Project - Photografer Profile Website",
+    github: "https://github.com/szuryanailham/Aldy_project",
+    img: project6,
+    tehno: { reactPorto, javascriptPorto, tailwindsPorto },
   },
 ];
 
