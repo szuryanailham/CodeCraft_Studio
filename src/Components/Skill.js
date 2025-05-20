@@ -4,9 +4,10 @@ import { figma, Inertia, Laravel, Next, ReactSkill, tailwinds, wordpress } from 
 const Skill = () => {
   return (
     <div>
-      <h1 className="text-2xl font-poppins font-fontTitle font-bold text-center mt-10 md:text-3xl mb-3 py-2 text-colortitle">My Skills</h1>
+      <h1 className="text-2xl md:text-3xl font-poppins font-fontTitle font-bold text-center mt-10 mb-3 py-2 text-colortitle">Our Expertise</h1>
 
-      <p className="text-center px-5 mb-2 max-w-prose text-[16px] md:mx-auto">Berikut adalah beberapa keterampilan pengembang web yang saya kuasai untuk mendukung karieer saya sebagai seorang web developer.</p>
+      <p className="text-center px-5 mb-2 max-w-prose text-[16px] md:mx-auto">Berikut adalah keahlian dan layanan yang kami tawarkan untuk membantu Anda membangun solusi digital yang efektif dan berkelas.</p>
+
       <section class="md:w-[90%] lg:w-[75%] md:mx-auto grid grid-cols-1 md:grid-cols-4 gap-2 md:gap-3 p-4">
         {/*  ================= React ==============*/}
         <div class="bg-[#143061] w-full p-4 h-[90px] text-white rounded-xl col-span-1">

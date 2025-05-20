@@ -1,7 +1,5 @@
 import "./App.css";
 import Ability from "./Components/Ability";
-import Education from "./Components/Education";
-import Experience from "./Components/Experience";
 import Hero from "./Components/Hero";
 import MenuBar from "./Components/MenuBar";
 import Portofolio from "./Components/Portofolio";
@@ -23,15 +21,11 @@ function App() {
           <Hero />
           <Skill />
           <div id="education">
-            <Education />
-          </div>
-          <div id="experience">
-            <Experience />
+            <Ability />
           </div>
           <div id="portofolio">
             <Portofolio />
           </div>
-          <Ability />
         </div>
       </div>
     </>

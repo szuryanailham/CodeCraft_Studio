@@ -1,7 +1,8 @@
 import { Instagram, javascriptPorto, whatsapp, laravelPorto, Linkedin, project1, project2, project3, project4, reactPorto, tailwindsPorto, Tiktok, Ability1, Ability2, Ability3, gsap, three, project5, project6 } from "../Assets/Utils/Index";
-export const title = "HEI, I AM SZURYANA ";
+export const title = "BUILDING DIGITAL SOLUTIONS — CODECRAFT.ID";
 
-export const Deskripsi = "Saya Front-End Developer dengan 2+ tahun pengalaman dalam membangun antarmuka web responsif dan interaktif. Menguasai Figma Design, HTML, CSS, JavaScript, dan framework modern ";
+export const Deskripsi =
+  "Codecraft.id adalah agensi digital yang menyediakan solusi lengkap untuk pengembangan produk website. Kami membantu bisnis membangun website modern, responsif, dan fungsional yang sesuai dengan kebutuhan digital masa kini.";
 
 export const LinkSocialMediaArray = [
   {
@@ -82,7 +83,7 @@ export const portofolio = [
   },
   {
     id: "4",
-    url: "https://www.figma.com/design/NRPe9ub8J3d0M2xRQwqTqf/REDESIGN-WEBSITE-RUANG-EDIT?node-id=0-1&t=n7fEMkKqd62lqfoN-1",
+    url: "https://www.figma.com/design/hg0PgtUFDZk6SI365fsUJ5/Bismillah_WEBSITE_RE?node-id=0-1&t=MgvNjSj78VxzYBje-1",
     nama: "Ruang Edit - course learning website",
     github: "https://github.com/szuryanailham/Ruang_Edit",
     img: project4,
@@ -109,20 +110,20 @@ export const portofolio = [
 export const AbilityArray = [
   {
     id: "1",
-    title: "Design",
+    title: "UI/UX Design",
     image: Ability1,
-    desc: "Saya membuat desain dan prototipe produk digital dengan ide-ide unik menggunakan Figma",
+    desc: "Mendesain antarmuka dan prototipe produk digital yang menarik dan intuitif menggunakan tools seperti Figma untuk pengalaman pengguna terbaik.",
   },
   {
     id: "2",
-    title: "Developer",
+    title: "Web Development",
     image: Ability2,
-    desc: "Saya membuat tampilan user interface dalam tehnologi website menggunakan bahasa pemograman terbaru",
+    desc: "Mengembangkan website responsif dan performa tinggi menggunakan teknologi terbaru seperti HTML, CSS, JavaScript, serta framework modern.",
   },
   {
     id: "3",
-    title: "Content Creator",
+    title: "SEO & Digital Marketing",
     image: Ability3,
-    desc: "Saya membuat content edukasi pembelajaran design figma dan web developer di paltform social media",
+    desc: "Meningkatkan visibilitas website melalui optimasi SEO dan strategi pemasaran digital yang efektif untuk memperluas jangkauan bisnis klien.",
   },
 ];

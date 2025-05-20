@@ -16,16 +16,13 @@ const Profile = () => {
         <img className="w-[270px] h-fit mx-auto px-7 md:px-10" src={profile} alt="Profile" />
         {/* Title */}
         <div className="py-3">
-          <h1 className="font-fontTitle text-2xl font-semibold text-center mb-1">{title}</h1>
-          <p className="text-xs text-center text-slate-400">Front end | UI Designer | Content Creator</p>
+          <h1 className="font-fontTitle text-xl sm:text-xl md:text-2xl lg:text-2xl font-semibold text-center mb-1">{title}</h1>
+
+          <p className="text-xs text-center text-slate-400">Web Dev | UI Design | Digital Innovation</p>
         </div>
         {/* Bio */}
         <div className="w-fit flex flex-col space-y-5 item-center justify-center mx-auto">
           {/* tanggal lahir */}
-          <div className="flex items-center gap-3">
-            <MdOutlineDateRange className="text-xl" />
-            <p className="text-sm">09.01.2002</p>
-          </div>
           {/* address */}
           <div className="flex items-center gap-3">
             <FaMapPin className="text-xl" />
@@ -35,7 +32,7 @@ const Profile = () => {
           <div className="flex items-center gap-3">
             <MdOutlineMailOutline className="text-xl" />
             <a className="text-xs underline hover:text-blue-600" href="mailto: name@email.com">
-              Szuryanailham090102@gmail.com
+              Studiocodecraft9@gmail.com
             </a>
             <p></p>
           </div>
