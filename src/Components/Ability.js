@@ -4,7 +4,7 @@ import { AbilityArray } from "../constants";
 const Ability = () => {
   return (
     <>
-      <h1 className="text-2xl md:text-3xl font-poppins font-bold text-center m-6">My Specializations</h1>
+      <h1 className="text-2xl md:text-3xl font-poppins font-bold text-center m-6">Our Specializations</h1>
       {AbilityArray.map((item) => (
         <div className="max-w-2xl mx-auto  shadow-md rounded-lg p-8 mb-6  border-white border-2">
           <div className="flex justify-between items-center mb-5">

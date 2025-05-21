@@ -4,7 +4,7 @@ import { FaGithub } from "react-icons/fa";
 const Portofolio = () => {
   return (
     <div id="Portofolio">
-      <h1 className="text-2xl font-poppins font-fontTitle font-bold text-center mt-10 md:text-3xl mb-3 py-2 text-colortitle">My Portofolio</h1>
+      <h1 className="text-2xl font-poppins font-fontTitle font-bold text-center mt-10 md:text-3xl mb-3 py-2 text-colortitle">Our Portofolio</h1>
       <div className="px-3 md:px-10">
         {portofolio.map((item, id) => (
           <a target="_blank" rel="noopener noreferrer" href={item.url} key={id}>
